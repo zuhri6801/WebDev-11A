@@ -1,0 +1,21 @@
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+    background-color: lightgray;
+    text-align: center;
+    /* 3px untuk offset-x (koordinat x)
+    5px untuk koordinat y
+    10px untuk blur */
+}
+
+p{
+    color: maroon;
+}
+
+.section{
+    margin-bottom: 20px; 
+    /* ini untuk jarak batas bawah dengan next section */
+    box-shadow: 3px 5px 10px grey;
+}
